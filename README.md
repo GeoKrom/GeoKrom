@@ -10,9 +10,11 @@
 - 🔭 I’m currently pursuing a master's degree in Automation Systems, in the field of Control Systems and robotics, at School of Mechanical Engineering, National Technical University of Athens.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeoKrom&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="GeoKrom" /></p>
+<h3 align="left">Languages:</h3>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeoKrom&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="GeoKrom"/></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GeoKrom&show_icons=true&theme=tokyonight&locale=en" alt="GeoKrom" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GeoKrom&" alt="GeoKrom" /></p>
+<h3 align="left">Statistics:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GeoKrom&show_icons=true&theme=tokyonight&locale=en" alt="GeoKrom"/></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GeoKrom&" alt="GeoKrom" /></p>

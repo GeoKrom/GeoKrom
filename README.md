@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently pursuing a master's degree in Automation Systems, in the field of Control Systems and robotics, at School of Mechanical Engineering, National Technical University of Athens.
+- 🔭 I’m currently pursuing a master's degree in Automation Systems, in the field of Control Systems and Robotics, at School of Mechanical Engineering, National Technical University of Athens.
 
 
 <h3 align="left">Languages:</h3>

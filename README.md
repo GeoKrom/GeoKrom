@@ -16,5 +16,3 @@
 
 <h3 align="left">Statistics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GeoKrom&show_icons=true&theme=tokyonight&locale=en" alt="GeoKrom"/></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GeoKrom&" alt="GeoKrom" /></p>

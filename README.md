@@ -12,7 +12,4 @@
 
 <h3 align="left">Languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeoKrom&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="GeoKrom"/></p>
-
-
-<h3 align="left">Statistics:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GeoKrom&show_icons=true&theme=tokyonight&locale=en" alt="GeoKrom"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GeoKrom&show_icons=true&theme=tokyonight&locale=en" alt="GeoKrom" /></p>

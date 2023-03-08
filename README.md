@@ -5,7 +5,9 @@
 **GeoKrom/GeoKrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GeoKrom&label=Profile%20views&color=0e75b6&style=flat" alt="GeoKrom" /> </p>
 
-- 🔭 I’m currently pursuing a master's degree in Automation Systems, in the field of Control Systems and Robotics, at School of Mechanical Engineering, National Technical University of Athens.
+<p>- 🔭 I’m currently pursuing a master's degree in Automation Systems, in the field of Control Systems and Robotics, at School of Mechanical Engineering, National Technical University of Athens.</p>
+
+<p>- My main interests consists of control systems, robotics, dynamical systems and multi agent systems.</p>
 
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeoKrom&show_icons=true&theme=algolia&locale=en&layout=compact" alt="GeoKrom"/></p>

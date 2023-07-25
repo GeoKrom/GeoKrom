@@ -10,8 +10,6 @@
 
 <p>- My research interests focus on control systems, robotics, dynamical systems and multi agent systems.</p>
 
-<!--><p>- Currently I am working on my diploma thesis: Optimal distributed control of heterogenous multi-agent systems using non-differentiable cost functions for position estimation in switching graph topology</p>
-
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeoKrom&show_icons=true&theme=algolia&locale=en&layout=compact" alt="GeoKrom"/></p>
 

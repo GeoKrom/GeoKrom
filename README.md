@@ -8,7 +8,7 @@
 
 <p>- 🔭 I’m currently pursuing a master's degree in Automation Systems, in the field of Control Systems and Robotics, at School of Mechanical Engineering, National Technical University of Athens.</p>
 
-<p>- My research interests focus on control systems, robotics, dynamical systems and multi agent systems.</p>
+<p>- My research interests focus on Nonlinear Control Systems, Distributed Control of Multi-Agent Systems, Adaptive Control Systems, Intelligent Control Systems, Optimal Control Systems and Robotics..</p>
 
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeoKrom&show_icons=true&theme=algolia&locale=en&layout=compact" alt="GeoKrom"/></p>

@@ -7,8 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GeoKrom&label=Profile%20views&color=0e75b6&style=flat" alt="GeoKrom" /> </p>
 <p>- I graduated from the Department of Computer Science and Engineering, School of Engineering, University of Ioannina. As specialty I selected Electronic and Computer Engineering with direction to Robotics and Control Systems. Furthermore, in my interests where included also Machine Learning and Electronics (Digital and Analog). </p>
 
-<p>- 🔭 I’m currently pursuing a master's degree in Automation Systems, in the direction of Automatic Control and Robotic Systems, at School of Mechanical Engineering, National Technical University of Athens.</p>
-<p>- My research interests focus on adaptive control, intelligent control, nonlinear control, multi-agent systems, game theory and advanced control applications on robotics. </p>
+<p>- Recently, I acquired a master's degree in Automation Systems, in the direction of Automatic Control and Robotic Systems, at School of Mechanical Engineering, National Technical University of Athens.</p>
+
+<p>- Currently I am looking for a PhD position in automatic control, especially in nonlinear distributed control of multi-agent systems.</p>
+
+<p>- My research interests focus on nonlinear control, distributed control of multi-agent systems, game theory and advanced control applications on robotics. </p>
 
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeoKrom&show_icons=true&theme=algolia&locale=en&layout=compact" alt="GeoKrom"/></p>

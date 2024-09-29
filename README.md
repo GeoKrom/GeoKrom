@@ -9,7 +9,7 @@
 
 <p>- Recently, I acquired a master's degree in Automation Systems, in the direction of Automatic Control and Robotic Systems, at School of Mechanical Engineering, National Technical University of Athens.</p>
 
-<p>- Currently I am looking for a PhD position in automatic control, especially in nonlinear distributed control of multi-agent systems.</p>
+<p>- Currently I am looking for a PhD position in automatic control and game theory.</p>
 
 <p>- My research interests focus on nonlinear control, distributed control of multi-agent systems, game theory and advanced control applications on robotics. </p>
 
